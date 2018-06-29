@@ -1,0 +1,2 @@
+# safelink
+short and safe
